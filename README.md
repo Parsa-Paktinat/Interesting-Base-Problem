@@ -43,9 +43,9 @@ Exercise designer: Seyed Fariman Sakkaki
 
 ## Credits
 
-| Student Name  | School        | Student ID |
-| :------------ | :------------ | :--------- |
-|Parsa Paktinat | EE Department | 403101518  |
+|  Student Name  |        School      | Student ID |
+| :------------- | :----------------- | :--------- |
+| Parsa Paktinat | EE Department, SUT | 403101518  |
 
 ---
 
