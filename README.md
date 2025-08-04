@@ -41,6 +41,14 @@ This problem is from the third homework assignment for the **Fundamentals of Pro
 
 Exercise designer: Seyed Fariman Sakkaki
 
+## Credits
+
+| Student Name  | School        | Student ID |
+| :------------ | :------------ | :--------- |
+|Parsa Paktinat | EE Department | 403101518  |
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License.
