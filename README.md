@@ -37,7 +37,7 @@ Here are the examples provided in the problem description:
 
 ## 🎓 Source
 
-This problem is from the third homework assignment for the **Fundamentals of Programming** course (Fall 2024), offered by the Department of Electrical Engineering at **Sharif University of Technology**.
+This problem is from the third homework assignment for the **Fundamentals of Programming** course (Fall 2024), offered by the Department of Electrical Engineering at Sharif University of Technology.
 
 Exercise designer: Seyed Fariman Sakkaki
 
