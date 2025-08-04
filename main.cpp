@@ -7,16 +7,22 @@ bool isAllOnesInBase(long long n, long long k) {
             return false;
         n /= k;
     }
+    
     return true;
 }
+
 int main() {
     long long n;
     std::cin >> n;
+    
     long long k;
     double i = 62;
+    
     long long m = pow(n,0.5);
+    
     while(true) {
         k = pow(n, 1 / i);
+        
         if (isAllOnesInBase(n, k)) {
             std::cout << k;
             break;
@@ -28,5 +34,6 @@ int main() {
         }
         i--;
     }
+    
     return 0;
 }
