@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![University](https://img.shields.io/badge/University-Sharif%20University%20of%20Technology-red.svg)](http://www.sharif.edu/)
 
-This repository contains the C++ solution for the "Interesting Base" problem, part of the third homework assignment for the Fundamentals of Programming course at Sharif University of Technology.
+This repository contains the C++ solution for the "Interesting Base" problem, part of the third homework assignment for the Fundamentals of Programming course at Sharif University of Technology, School of Electrical Engineering in 2024.
 
 ---
 
