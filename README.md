@@ -42,12 +42,6 @@ Exercise designer: Seyed Fariman Sakkaki
 
 ## Credits
 
-|  Student Name  |        School      | Student ID |
-| :------------- | :----------------- | :--------- |
-| Parsa Paktinat | EE Department, Sharif University of Technology | 403101518  |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+|  Student Name  |        School      |
+| :------------- | :----------------- |
+| Parsa Paktinat | EE Department, Sharif University of Technology |
